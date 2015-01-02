@@ -1,0 +1,48 @@
+List of Lecture Topics
+
+Lecture 1 – Plotting:
+- Plotting using PyLab
+- Plotting Mortgages
+Lecture 2 – Simulations and Random Walks:
+- Random Walks
+- Drunken Walks
+- Drunken Tests
+- Drunken Simulations
+Lecture 3 – Probability:
+- Rolling a Die
+- Hashing
+- Using hashing to look up Information
+Lecture 4 – Stochastic Programming and Hashing:
+- Law of Large Numbers
+- Standard Deviations
+- Histograms
+Lecture 5 – Monte Carlo Simulations:
+Lecture 6 – Using Randomness to Solve Non-Random Problems:
+- Distributions
+- Find the value of Pi
+Lecture 7 – Curve Fitting:
+- Understanding Experimental Data
+- Errors in Experimental Observations
+- Curve Fitting
+- Goodness of Fit
+- Using a Model for Predictions
+Lecture 8 – Knapsack Problem
+- 0/1 Knapsack Problem
+- Greedy Algorithm
+- Finding the Optimal Solution
+- Expected Run Times
+Lecture 9 – Graphs and Graph Optimization:
+- Depth-first Search
+- Breadth-first Search
+- Weighted Graphs
+- Implicit Graph Search
+- Maximal Cliques
+Lecture 10 – Machine Learning:
+- Feature Vectors
+- Distance Metrics
+- Clustering
+Lecture 11 – Statistical Fallacies
+- Misusing Statistics
+- Garbage In Garbage Out
+- Data Enhancement
+Lecture 12 – Research videos
